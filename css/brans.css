@@ -1,0 +1,36 @@
+.phone {
+    margin-left: 20px;
+    margin-top: -20px;
+    font-family: "Oswald", sans-serif;
+    font-size: 34px;
+    color: #fff;
+    padding-left: 25px;
+    line-height: 1;
+    background: url(https://imk18.ru/wp-content/themes/workshop/img/phone.png) left center no-repeat;
+}
+
+.brands {
+    position: relative;
+    margin-top: -70px;
+    z-index: 10;
+    top: 85px;
+    right: 0;
+    width: 225px;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 3px 1px rgb(0 0 0 / 80%);
+}
+
+
+.col-lg-6:after {
+    position: absolute;
+    bottom: -46px;
+    left: 50%;
+    transform: translateX(-50%);
+    margin-top: 50px;
+    content: '';
+    display: block;
+    width: 88%;
+    height: 1px;
+    background-color: #009a47;
+}
