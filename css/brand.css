@@ -20,3 +20,14 @@
     line-height: 1;
     background: url(https://imk18.ru/wp-content/themes/workshop/img/phone.png) left center no-repeat;
 }
+
+.kalculator {
+    height: 100%;
+    position: relative;
+}
+
+.laser-section {
+      background: #151515;
+    padding-top: 1px;
+    padding-bottom: 1px;
+}
