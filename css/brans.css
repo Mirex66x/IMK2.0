@@ -34,3 +34,15 @@
     height: 1px;
     background-color: #009a47;
 }
+
+.home-mirex {
+    background: url(https://www.wallpaperflare.com/static/770/375/799/blur-background-spectrum-electromagnetic-4k-wallpaper.jpg);
+}
+
+.mirex h2 {
+    font-size: 40px;
+    font-weight: 500;
+    color: #ffffff;
+    text-transform: uppercase;
+    margin-bottom: 36px;
+}
